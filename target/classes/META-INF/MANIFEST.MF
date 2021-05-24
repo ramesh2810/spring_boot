@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot1
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Ramesh.Saranya
+Implementation-Vendor-Id: com.lara
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://spring.io/projects/spring-boot/springboot1
+Created-By: Maven Integration for Eclipse
+
